@@ -26,9 +26,9 @@ LaZ test
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - "□ゾ"
-- "ローゾロ"
 - "🐯⚔"
 - "ロゾ" -ゾロゾロ -ニョロゾ -モロゾフ -レトロゾ -エアロゾル -アクロゾス -メロゾイド -ロゾンビ -ロゾヤ局 -ロゾー -コロゾ -トロゾル -ゾロロー -トロゾウ
+- "ローゾロ"
 - "ﾛｿﾞ" -ｿﾞﾛｿﾞﾛ
 - "ろぞ" -ぞろぞろ
 
